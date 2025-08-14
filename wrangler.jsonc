@@ -20,7 +20,7 @@
     }
   ],
   "main": "src/index.ts",
-  "name": "deeplx",
+  "name": "deepl",
   "observability": {
     "enabled": true
   },
