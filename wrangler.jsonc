@@ -6,16 +6,16 @@
       "binding": "ANALYTICS"
     }
   ],
-  "compatibility_date": "2025-07-19",
+  "compatibility_date": "2025-02-04",
   "kv_namespaces": [
     {
       "binding": "CACHE_KV",
-      "id": "4d5895d8716247f486493b93edbc5fe9",
+      "id": "fcf21770d17f48b38bd10636119391aa",
       "preview_id": "e9e499fe006e4879a0668e792fe2dd15"
     },
     {
       "binding": "RATE_LIMIT_KV",
-      "id": "07147ca64a4c48fe952f62afe469bb44",
+      "id": "5c317bfac3a84d588dcf6133f4cf0249",
       "preview_id": "bbed039364e5488e8ed58701c3ee5da5"
     }
   ],
